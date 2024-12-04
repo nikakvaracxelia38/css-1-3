@@ -1,11 +1,11 @@
-h1 {
+ h1 {
     color: #000;
     font-size: 72px;
     font-style: normal;
     font-weight: 700;
     line-height: normal; 
     text-align: center;
-    margin-left: 50px;
+    margin-left: 100px;
 }
 
 #theory {
@@ -17,7 +17,7 @@ h1 {
     text-align: center;
     margin-left: 250px;
     margin-right: 250px;
-    margin-left: 50px;
+    margin-left: 200px;
 }
 
 #big {
@@ -93,7 +93,7 @@ h1 {
     border: 3px solid #FF5DA3;
     background: #FFC1E3;
     width: 650px;
-    margin-left: 50px;
+    margin-left: 35px;
 }
 
 #physical {
@@ -103,5 +103,84 @@ h1 {
     font-size: normal;
     font-weight: 400;
     line-height: normal;
-    
+}
+
+#are {
+    color: #414651;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 24px;
+    margin-left: 35px;
+}
+
+#of {
+    color: #C27512;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 700px;
+    margin-left:25px
+}
+
+#extra {
+    color: #C27512;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 700px;
+    margin-left: 25px;
+}
+
+#the {
+    color: #C27512;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 700px;
+    margin-left: 25px;
+}
+
+#provide {
+    width: 16px;
+    height: 16px;
+    border-radius: 90px;
+    background: #000;
+}
+
+#while {
+    width: 16px;
+    height: 16px;
+    border-radius: 90px;
+    background: #000;
+}
+
+
+#building {
+    width: 16px;
+    height: 16px;
+    border-radius: 90px;
+    background: #000;
+}
+
+ul {
+    list-style: none;
+}
+
+div {
+    margin-left: 35px;
+}
+
+#rainbow {
+    margin-left: 35px;
+}
+#hole {
+    margin-left: 35px;
+}
+
+#bang {
+    margin-left: 35px;
 }
